@@ -5,8 +5,17 @@
 - 📫 How to reach me : mail me gyathurshan@gmail.com
 - 😄 Pronouns: When i become pro, I'll add pronouns.
 - ⚡ Fun fact: only fact is, currently i haven't any fact.
+- 🎯 Goals
+     .Make something cool
+     .Look smart
+     .World domination 🌍
+- 🛠️ How to Contribute
+     .Feel free to open issues, send pull requests, or just send me a picture of your dog. We accept all forms of love and feedback.
 
-<!---
-yathu09/yathu09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hope this README adds a little humor to your project! Let me know if you want to tweak or add anything specific!
+
+
+
+
+
+
