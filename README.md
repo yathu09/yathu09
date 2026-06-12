@@ -12,9 +12,6 @@
 - 🛠️ How to Contribute
      .Feel free to open issues, send pull requests, or just send me a picture of your dog. We accept all forms of love and feedback.
 
-Hope this README adds a little humor to your project! Let me know if you want to tweak or add anything specific!
-
-
 
 
 
