@@ -1,18 +1,39 @@
-- 👋 Hi, I’m @yathu09
-- 👀 I’m interested in computers 💻 
-- 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on pro coders for make masterpieces.
-- 📫 How to reach me : mail me gyathurshan@gmail.com
-- 😄 Pronouns: When i become pro, I'll add pronouns.
-- ⚡ Fun fact: only fact is, currently i haven't any fact.
-- 🎯 Goals
-     .Make something cool
-     .Look smart
-     .World domination 🌍
-- 🛠️ How to Contribute
-     .Feel free to open issues, send pull requests, or just send me a picture of your dog. We accept all forms of love and feedback.
+# Hi 👋, I'm Ganeshan Yathurshan
 
+🎓 BSc Computer Science Undergraduate
+📍 Eastern University, Sri Lanka (Trincomalee Campus)
 
+## 💻 About Me
+- 🌱 Learning Full-Stack Development
+- 📱 Building React Native mobile applications
+- ⚙️ Backend: Node.js, Express.js, PostgreSQL
+- 💻 Frontend: React.js, React Native
+- 🔐 Interested in Authentication, REST APIs, and Mobile App Development
 
+## 🛠 Tech Stack
 
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- React Native
+- Node.js
+- Express.js
+- PostgreSQL
+- Git & GitHub
 
+## 🚀 Current Project
+
+### Full-Stack E-Commerce Mobile App
+Features:
+- User Authentication
+- Product Management
+- Shopping Cart
+- Order Management
+- Admin Dashboard
+- JWT Authentication
+
+## 📫 Contact
+
+Email: gyathurshan@gmail.com
+LinkedIn: https://www.linkedin.com/in/ganeshan-yathurshan-05a063210
